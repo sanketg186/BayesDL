@@ -1,2 +1,2 @@
 # BayesDL
-Implementationof probabilistic deep learning model
+Implementation of probabilistic deep learning model
