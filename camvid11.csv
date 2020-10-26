@@ -1,0 +1,13 @@
+name,r,g,b,class
+Bicyclist,0,128, 192,0
+Building,128, 0, 0,1
+Car,64, 0, 128,2
+Column_Pole,192, 192, 128,3
+Fence,64, 64, 128,4
+Pedestrian,64, 64, 0,5
+Road,128, 64, 128,6
+Sidewalk,0, 0, 192,7
+SignSymbol,192, 128, 128,8
+Sky,128, 128, 128,9
+Tree,128, 128, 0,10
+Void,0, 0, 0,11
